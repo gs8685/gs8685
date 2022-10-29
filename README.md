@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gs8685
-- 👀 I’m interested in just engineering the system
+- 👀 I’m interested in just engineering the systems
 - 🌱 I’m currently learning Elixir
 - 💞️ I’m looking to collaborate on Data Science / Blockchain platforms
 - 📫 How to reach me - gunjan.sharma@bridgelabz.com
